@@ -205,7 +205,7 @@ ____________
 <br>
 
 > **FEATURES**<br>
->  - Change languge in runtime
+>  - Change language in runtime
 >  - jQuery selectors with HTML
 >  - Attribute value localization
 >  - AngularJS Scope localization
