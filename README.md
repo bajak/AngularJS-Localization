@@ -221,4 +221,4 @@ ____________
 `Author: Wojciech Lukasz Bajak`<br>
 `Phone: (+049) 40 532 555 00`<br>
 `Email: info[at]bajak.net`<br>
-`Internet: http://www.softwarechannel.net`<br>
+`Internet:` http://www.softwarechannel.net<br>
